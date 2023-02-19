@@ -188,7 +188,7 @@ button.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #f4813f;
+  background-color: rgb(129 130 131);
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -251,11 +251,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fba70b!important;
+  color: #959494!important;
 }
 
 .background-header .nav li a.active {
-  color: #fba70b!important;
+  color: #959494!important;
 }
 
 .header-area {
@@ -339,7 +339,7 @@ header
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #fba70b;
+  color: #959494!important;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -409,7 +409,7 @@ header
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #fba70b!important;
+  color: #959494!important;
   padding-left: 25px;
 }
 
@@ -545,7 +545,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fba70b;
+  color: #ffffff;
 }
 
 
@@ -1079,7 +1079,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal; 
-  color: #1b2b5d;
+  color: rgb(129 130 131);
 }
 
 .footer-content .right-content p {
