@@ -853,12 +853,11 @@ promotion
   margin-bottom: 0px;
 }
 
-#promotion .right-text .img {
+#promotion .right-text  ul li .img {
   display: inline-block;
-  float: left;
   margin-right: 30px;
-  width: 100px;
-  height: 100px;
+  width: 100px !important;
+  height: 100px !important;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -868,6 +867,9 @@ promotion
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+}
+#promotion .right-text ul li .text{
+  width: calc(100% - 130px);
 }
 #promotion .right-text .img img {
   display: inline-block;
